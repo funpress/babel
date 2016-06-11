@@ -1,36 +1,62 @@
-## todo:  use title/path etc.
+######################
+#  Table of Contents
 
-- [Introduction](#toc-introduction)
-- [Setting up Babel](#toc-setting-up-babel)
-  - [`babel-cli`](#toc-babel-cli)
-    - [Running Babel CLI from within a project](#toc-running-babel-cli-from-within-a-project)
-  - [`babel-register`](#toc-babel-register)
-  - [`babel-node`](#toc-babel-node)
-  - [`babel-core`](#toc-babel-core)
-- [Configuring Babel](#toc-configuring-babel)
-  - [`.babelrc`](#toc-babelrc)
-  - [`babel-preset-es2015`](#toc-babel-preset-es2015)
-  - [`babel-preset-react`](#toc-babel-preset-react)
-  - [`babel-preset-stage-x`](#toc-babel-preset-stage-x)
-- [Executing Babel-generated code](#toc-executing-babel-generated-code)
-  - [`babel-polyfill`](#toc-babel-polyfill)
-  - [`babel-runtime`](#toc-babel-runtime)
-- [Configuring Babel (Advanced)](#toc-configuring-babel-advanced)
-  - [Manually specifying plugins](#toc-manually-specifying-plugins)
-  - [Plugin options](#toc-plugin-options)
-  - [Customizing Babel based on environment](#toc-customizing-babel-based-on-environment)
-  - [Making your own preset](#toc-making-your-own-preset)
-- [Babel and other tools](#toc-babel-and-other-tools)
-  - [Static analysis tools](#toc-static-analysis-tools)
-    - [Linting](#toc-linting)
-    - [Code Style](#toc-code-style)
-    - [Documentation](#toc-documentation)
-  - [Frameworks](#toc-frameworks)
-    - [React](#toc-react)
-  - [Text Editors and IDEs](#toc-text-editors-and-ides)
-- [Debugging Babel](#toc-debugging-babel)
-- [Babel Support](#toc-babel-support)
-  - [Babel Forum](#toc-babel-forum)
-  - [Babel Chat](#toc-babel-chat)
-  - [Babel Issues](#toc-babel-issues)
-    - [Creating an awesome Babel bug report](#toc-creating-an-awesome-babel-bug-report)
+- title: Introduction
+  path:  01__Introduction.md
+
+- title: Setting up Babel
+  path:  02__Setting_up_Babel.md
+  sections:
+  - title: "`babel-cli`"
+    sections:
+    - title: Running Babel CLI from within a project
+  - title: "`babel-register`"
+  - title: "`babel-node`"
+  - title: "`babel-core`"
+
+- title: Configuring Babel
+  path:  03__Configuring_Babel.md
+  sections:
+  - title: "`.babelrc`"
+  - title: "`babel-preset-es2015`"
+  - title: "`babel-preset-react`"
+  - title: "`babel-preset-stage-x`"
+
+- title: Executing Babel-generated code
+  path:  04__Executing_Babel-generated_code.md
+  sections:
+  - title: "`babel-polyfill`"
+  - title: "`babel-runtime`"
+
+- title: Configuring Babel (Advanced)
+  path:  05__Configuring_Babel_(Advanced).md
+  sections:
+  - title: Manually specifying plugins
+  - title: Plugin options
+  - title: Customizing Babel based on environment
+  - title: Making your own preset
+
+- title: Babel and other tools
+  path:  06__Babel_and_other_tools.md
+  sections:
+  - title: Static analysis tools
+    sections:
+    - title: Linting
+    - title: Code Style
+    - title: Documentation
+  - title: Frameworks
+    sections:
+    - title: React
+  - title: Text Editors and IDEs
+
+- title: Debugging Babel
+  path:  07__Debugging_Babel.md
+
+- title: Babel Support
+  path:  08__Babel_Support.md
+  sections:
+  - title: Babel Forum
+  - title: Babel Chat
+  - title: Babel Issues
+    sections:
+    - title: Creating an awesome Babel bug report
