@@ -29,7 +29,7 @@
   - title: "`babel-runtime`"
 
 - title: Configuring Babel (Advanced)
-  path:  05__Configuring_Babel_(Advanced).md
+  path:  05__Configuring_Babel_Advanced.md
   sections:
   - title: Manually specifying plugins
   - title: Plugin options

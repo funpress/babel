@@ -15,7 +15,7 @@ This is the original source reformatted in a single-page book edition (using the
 - [Setting up Babel](02__Setting_up_Babel.md)
 - [Configuring Babel](03__Configuring_Babel.md)
 - [Executing Babel-generated code](04__Executing_Babel-generated_code.md)
-- [Configuring Babel (Advanced)](05__Configuring_Babel_(Advanced).md)
+- [Configuring Babel (Advanced)](05__Configuring_Babel_Advanced.md)
 - [Babel and other tools](06__Babel_and_other_tools.md)
 - [Debugging Babel](07__Debugging_Babel.md)
 - [Babel Support](08__Babel_Support.md)
